@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi. I'm Dwight. I'm a lifelong learner and enjoy tinkering. :disguised_face:
+
 
 <!--
 **mooredwightd/mooredwightd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
